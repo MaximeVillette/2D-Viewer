@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/Table">
+        <file>Images/SailTheWorld/TableSailTheWorld.png</file>
+    </qresource>
+    <qresource prefix="/Robot">
+        <file>Images/SailTheWorld/Robot.png</file>
+        <file>Images/SailTheWorld/AirPump.png</file>
+    </qresource>
+    <qresource prefix="/CANbus">
+        <file>Images/CANbus/Clear.png</file>
+        <file>Images/CANbus/Connect.png</file>
+        <file>Images/CANbus/Disconnect.png</file>
+        <file>Images/CANbus/Exit.png</file>
+    </qresource>
+    <qresource prefix="/Logo">
+        <file>Logo.png</file>
+    </qresource>
+</RCC>
